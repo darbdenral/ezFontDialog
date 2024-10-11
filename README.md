@@ -8,3 +8,8 @@ The FontDialog control in VisualNeoWin facilitates the selection of a font from 
 Developed using C# and the .NET framework 4.5, this plugin guarantees top-notch performance.
 
 Includes demo with VisualNeo source and plugin.
+
+# Updates
+
+v1.00
++ First stable version.
