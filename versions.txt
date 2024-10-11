@@ -1,0 +1,5 @@
+# Version History for ezFontDialog Plugin
+
+# Format: YYYY-MM-DD | Version | Description
+
+2023-06-09 | v1.0.0 | Initial release - "See full release notes in README.md"
